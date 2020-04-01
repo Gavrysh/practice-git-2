@@ -1,2 +1,6 @@
+language: ruby
+rvm:
+ - 2.5
+ - jruby
 notifications:
   slack: gasesinc:3Rzi5eCkTIFEOHyaDWiCjMBB
