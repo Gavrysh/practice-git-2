@@ -1,6 +1,3 @@
-language: ruby
-rvm:
- - 2.5
- - jruby
+language: minimal
 notifications:
   slack: gasesinc:3Rzi5eCkTIFEOHyaDWiCjMBB
